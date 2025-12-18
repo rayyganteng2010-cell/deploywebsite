@@ -1,5 +1,5 @@
 // ⚠️ WARNING: Token di-hardcode di sini - GANTI dengan token kamu!
-const VERCEL_TOKEN = 'isi sama token vercel lu';
+const VERCEL_TOKEN = 'QZwn3V8h7d7UeCHIwS0Gwh11';
 
 export default async function handler(req, res) {
   // Only allow POST
